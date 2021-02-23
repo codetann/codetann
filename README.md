@@ -1,16 +1,25 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, My name is Tanner Thomas 👨‍💻
 
-<!--
-**codetann/codetann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught frontend developer based in Salt Lake City, Utah. My goal is to create engaging experiences for users, with a fine balance of technology and design.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently looking for new opportunities .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 JavaScript | Python | Node 
+* 🖇️ React
+* 🛢️ MongoDB 
+* :octocat: Git | Github
+* 🌐 HTML | CSS | SASS
+* ☁ Firebase
+* 💠 Blender
+* 📟 Raspberry PI | Arduino | NodeMCU
+
+## 📫 Get in touch
+- LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/adnanazmee)
+- Portfolio - https://codetann.github.io/portfolio
+
+ or send me an [email](mailto:thetannerthomas@gmail.com) .

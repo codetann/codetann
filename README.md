@@ -15,8 +15,6 @@ Here are a few things I've picked up along my learning journey.
 * :octocat: Git | Github
 * 🌐 HTML | CSS | SASS
 * ☁ Firebase
-* 💠 Blender
-* 📟 Raspberry PI | Arduino | NodeMCU
 
 ## 📫 Get in touch
 - LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/adnanazmee)

@@ -9,8 +9,8 @@ I'm a self-taught frontend developer based in Salt Lake City, Utah. My goal is t
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 JavaScript | Python | Node 
-* 🖇️ React
+* 🗣 JavaScript | Python 
+* 🖇️ React | Node 
 * 🛢️ MongoDB 
 * :octocat: Git | Github
 * 🌐 HTML | CSS | SASS

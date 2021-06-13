@@ -18,6 +18,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 - LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/adnanazmee)
-- Portfolio - https://codetann.github.io/portfolio
+- Portfolio - https://codetann.github.io/react-portfolio
 
  or send me an [email](mailto:thetannerthomas@gmail.com) .

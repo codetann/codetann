@@ -10,14 +10,14 @@ I'm a self-taught frontend developer based in Salt Lake City, Utah. My goal is t
 Here are a few things I've picked up along my learning journey.
 
 * 🗣 JavaScript | Python 
-* 🖇️ React | Node 
+* 🖇️ React | Node | Svelte
 * 🛢️ MongoDB 
 * :octocat: Git | Github
 * 🌐 HTML | CSS | SASS
 * ☁ Firebase
 
 ## 📫 Get in touch
-- LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/adnanazmee)
+- LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/tanner-thomas)
 - Portfolio - https://codetann.github.io
 
  or send me an [email](mailto:thetannerthomas@gmail.com) .

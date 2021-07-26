@@ -20,4 +20,4 @@ Here are a few things I've picked up along my learning journey.
 - LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/tanner-thomas)
 - Portfolio - https://codetann.github.io
 
- or send me an [email](mailto:thetannerthomas@gmail.com) .
+ or send me an [email](mailto:thetannerthomas@gmail.com)

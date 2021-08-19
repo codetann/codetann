@@ -11,7 +11,7 @@ Here are a few things I've picked up along my learning journey.
 
 * 🗣 JavaScript | Python 
 * 🖇️ React | Node | Svelte
-* 🛢️ MongoDB 
+* 🛢️ MongoDB | SQLite
 * :octocat: Git | Github
 * 🌐 HTML | CSS | SASS
 * ☁ Firebase

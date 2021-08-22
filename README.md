@@ -13,7 +13,7 @@ Here are a few things I've picked up along my learning journey.
 * 🖇️ React | Node | Svelte
 * 🛢️ MongoDB | SQLite | PostgreSQL
 * :octocat: Git | Github
-* 🌐 HTML | CSS | SASS
+* 🌐 HTML | CSS | SASS | Styled Components 
 * ☁ Firebase
 
 ## 📫 Get in touch

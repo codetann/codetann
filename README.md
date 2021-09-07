@@ -18,6 +18,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 - LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/tanner-thomas)
-- Portfolio - https://codetann.github.io
+- Portfolio - tannerthomas.dev
 
  or send me an [email](mailto:codetann@gmail.com)

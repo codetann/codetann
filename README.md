@@ -14,7 +14,7 @@ Here are a few things I've picked up along my learning journey.
 * 🛢️ MongoDB | SQLite | PostgreSQL
 * :octocat: Git | Github
 * 🌐 HTML | CSS | SASS | Styled Components 
-* ☁ Firebase
+* ☁ Firebase | MongoDB Atlas
 
 ## 📫 Get in touch
 - LinkedIn - [Tanner Thomas](https://in.linkedin.com/in/tanner-thomas)

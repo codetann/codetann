@@ -6,7 +6,7 @@ I'm a self-taught frontend developer based in Salt Lake City, Utah. My goal is t
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 JavaScript | Python 
+* 🗣 JavaScript | TypeScript | Python 
 * 🖇️ React | Node | Svelte
 * 🛢️ MongoDB | SQLite | PostgreSQL
 * :octocat: Git | Github

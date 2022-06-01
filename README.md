@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">Hello, My name is Tanner Thomas 👨‍💻
+Hello, My name is Tanner Thomas 👨‍💻
 
 I'm a self-taught frontend developer based in Salt Lake City, Utah. My goal is to create engaging experiences for users, with a fine balance of technology and design.
 

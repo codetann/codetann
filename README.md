@@ -1,12 +1,12 @@
 # Hello, My name is Tanner Thomas 👨‍💻
 
-I'm a self-taught frontend developer based in Salt Lake City, Utah. My goal is to create engaging experiences for users, with a fine balance of technology and design.
+I'm a Software Engineer based in Salt Lake City, Utah. My goal is to create engaging experiences for users, with a fine balance of technology and design.
 
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 JavaScript | TypeScript | Python | Dart
+* 🗣 JavaScript | TypeScript | Python | Dart | PHP
 * 🖇️ React | Node | Svelte | Flutter
 * 🛢️ MongoDB | SQLite | PostgreSQL
 * :octocat: Git | Github

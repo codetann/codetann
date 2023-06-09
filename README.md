@@ -1,6 +1,6 @@
 # Hello, My name is Tanner Thomas 👨‍💻
 
-I'm a Software Engineer based in Salt Lake City, Utah. My goal is to create engaging experiences for users, with a fine balance of technology and design.
+I'm a Software Engineer based in Lehi, Utah. My goal is to create engaging experiences for users, with a fine balance of technology and design.
 
 ## ⚡ Tech Stack
 
